@@ -9,7 +9,7 @@ Die Schattenbilder müssen im Verzeichnis source_images stehen.
 Ggf. müssen die Dateinamen und der Bildausschnitt im Code (Abschnitt Crop) angepasst werden.
 Das Ergebnis steht als nimiertes gif im Verzeichnis "result". Das animierte GIF zeigt das 3d-Objekt, das 2x um seine eigene Achse gedreht wird.
 
-Erzeugen der erläuternden Illustrationen.jypnb:
+Erzeugen der Animationen.jypnb:
 Zusätzlich zur Rekonstruktion des 3d-Objekts wird eine Animation erzeugt, in der dargestellt ist, wie das Objekt durch Ausschneiden aus einem gefüllten Quader mit den Schattenbildern als "Abstreifform" erzeugt wird.
 Das Ergebnis steht im Verzeichnis "result"
 Das Ergebnis (animiertes GIF) steht in result/Illustration.
