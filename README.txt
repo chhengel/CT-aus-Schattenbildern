@@ -12,7 +12,6 @@ Das Ergebnis steht als nimiertes gif im Verzeichnis "result". Das animierte GIF 
 Erzeugen der erläuternden Illustrationen.jypnb:
 Zusätzlich zur Rekonstruktion des 3d-Objekts wird eine Animation erzeugt, in der dargestellt ist, wie das Objekt durch Ausschneiden aus einem gefüllten Quader mit den Schattenbildern als "Abstreifform" erzeugt wird.
 Das Ergebnis steht im Verzeichnis "result"
-Außerdem werden Illustrationen erzeugt, die die Schattenräume des Objekts mit dem (vollständig) darin liegenden Objekt zeigen
 Das Ergebnis (animiertes GIF) steht in result/Illustration.
 
 
